@@ -1,0 +1,6 @@
+{
+  "name": "Anaverse Hospital",
+  "description": "A fully responsive, pixel-perfect modern healthcare landing page styled after Webtixa with interactive symptom checker, live metrics counter, and cinematic doctor slider.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
